@@ -18,7 +18,7 @@
             <file path="$MODULE_DIR$/src" />
           </files-to-enhance>
           <run-enhancer-on-make>true</run-enhancer-on-make>
-          <sdk-home-path>C:/Program Files/Google/appengine-java-sdk-1.3.8</sdk-home-path>
+          <sdk-home-path>$MODULE_DIR$/../../../Tools/appengine-java-sdk-1.3.8</sdk-home-path>
           <email>eagle.xiao@gmail.com</email>
         </configuration>
       </facet>
